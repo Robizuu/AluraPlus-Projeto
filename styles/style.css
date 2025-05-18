@@ -23,7 +23,7 @@ body {
 }
 
 .principal {
-    background-image: url("./assets/Background.png");
+    background-image: url('https://github.com/Robizuu/AluraPlus-Projeto/blob/7687aa01eda23daede802e1d470d1e6580df7bb9/assets/Background.png');
     background-repeat: no-repeat;
     background-size: contain;
     height: 100vh;
